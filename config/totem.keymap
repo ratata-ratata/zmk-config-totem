@@ -18,7 +18,7 @@
 
 #define BASE  0
 #define RAISE 1
-#define ROWER 2
+#define LOWER 2
 #define ADJ   3
 #define TVP1  4
 #define TVP2  5
@@ -82,7 +82,7 @@ label= "BASE"                              ;
                 &kp Q       &kp L       &kp U       &kp COMMA   &kp DOT         &kp F       &kp W       &kp R       &kp Y       &kp P
                 &kp E       &kp I       &kp A       &kp O       &kp MINAS       &kp K       &kp T       &kp N       &kp S       &kp H
     &kp Q       &kp Z       &kp X       &kp C       &kp V       &kp SEMI        &kp G       &kp D       &kp M       &kp J       &kp B       &kp FSLH
-                                        &kp DEL     &mo RAISE   &kp SPACE       &kp BSPC    &mo ROWER   &kp ENTER
+                                        &kp DEL     &mo RAISE   &kp SPACE       &kp BSPC    &mo LOWER   &kp ENTER
                         >;
                 };
 
